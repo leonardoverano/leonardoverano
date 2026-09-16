@@ -25,7 +25,7 @@
 $ cat about.txt
 ```
 
-Fala, sou o Leonardo, não sei muita coisa sobre coding mas sei usar IA do melhor jeito possível
+Fala, não sei muita coisa sobre coding mas sei usar IA do melhor jeito possível
 
 - Fazendo Site atualmente
 - Portfolio: **[Portfolioxxx resenha](https://cernec.vercel.app/)**
