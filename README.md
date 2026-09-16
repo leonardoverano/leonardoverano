@@ -13,7 +13,7 @@
 <br>
 
 <!-- SOCIALS -->
-<a href="https://dossier-iota-one.vercel.app"><img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
+<a href="https://cernec.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
 <a href="https://www.instagram.com/leoo.verano/"><img src="https://img.shields.io/badge/Instagram-fd6c34?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"></a>
 </div>
 
@@ -28,7 +28,7 @@ $ cat about.txt
 Fala, sou o Leonardo, não sei muita coisa sobre coding mas sei usar IA do melhor jeito possível
 
 - Fazendo Site atualmente
-- Portfolio: **[Portfolioxxx resenha](https://dossier-iota-one.vercel.app)**
+- Portfolio: **[Portfolioxxx resenha](https://cernec.vercel.app/)**
 - Aprendendo Tudo de IA
 
 <br>
